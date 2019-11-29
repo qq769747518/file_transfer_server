@@ -1,0 +1,4 @@
+requests==2.9.1
+requests-toolbelt==0.9.1
+hyper==0.7.0
+
